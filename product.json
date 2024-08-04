@@ -1,0 +1,67 @@
+[
+    {
+        "id": "softflower001",
+        "name": "Soft Flower Diamond Ring",
+        "company": "Brand A",
+        "price": 33557,
+        "colors": ["#FFD700", "#FFFFFF"],
+        "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dweadbc99e/images/hi-res/50D2J1FJRAA02_1.jpg?sw=640&amp;sh=640",
+        "description": "A beautiful soft flower diamond ring.",
+        "category": "jewelry",
+        "feature": true,
+        "weight": "2.041 g",
+        "featured": true
+    },
+    {
+        "id": "sparklingmangalsutra002",
+        "name": "Sparkling Simplicity Diamond Mangalsutra",
+        "company": "Brand B",
+        "price": 51235,
+        "colors": ["#000000", "#FFFFFF"],
+        "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwabd8f587/images/hi-res/504002YWRAA32_1.jpg?sw=640&amp;sh=640",
+        "description": "An elegant sparkling simplicity diamond mangalsutra.",
+        "category": "jewelry",
+        "feature": true,
+        "weight": "3.755 g",
+        "featured": true
+    },
+    {
+        "id": "intertwiningring003",
+        "name": "Intertwining Leaves Rose Gold and Diamond Finger Ring",
+        "company": "Brand C",
+        "price": 29247,
+        "colors": ["#FFDF00", "#FF0000"],
+        "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw97a38a7c/images/hi-res/503419FIPAA09_1.jpg?sw=640&amp;sh=640",
+        "description": "A stunning intertwining leaves rose gold and diamond finger ring.",
+        "category": "jewelry",
+        "feature": true,
+        "weight": "1.483 g",
+        "featured": true
+    },
+    {
+        "id": "starryearrings004",
+        "name": "Starry Dual Tone Diamond Stud Earrings",
+        "company": "Brand D",
+        "price": 35575,
+        "colors": ["#FFFFFF", "#C0C0C0"],
+        "image": "https://www.tanishq.co.in/product/starry-dual-tone-diamond-stud-earrings-50d3ptscmaba09.html?lang=en_IN",
+        "description": "Gorgeous starry dual tone diamond stud earrings.",
+        "category": "jewelry",
+        "feature": true,
+        "weight": "3.05 g",
+        "featured": true
+    },
+    {
+        "id": "modishfloralearrings005",
+        "name": "Modish 22 Karat Yellow Gold Floral Drop Earrings",
+        "company": "Brand E",
+        "price": 27283,
+        "colors": ["#FFD700", "#FFA500"],
+        "image": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw0e12ff2a/images/hi-res/511018DIFAGA00_1.jpg?sw=640&amp;sh=640",
+        "description": "Beautiful modish 22 karat yellow gold floral drop earrings.",
+        "category": "jewelry",
+        "feature": true,
+        "weight": "3.192 g",
+        "featured": true
+    }
+]
